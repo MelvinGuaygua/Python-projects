@@ -8,6 +8,7 @@ dinamic = obtenerDinamic()
 #     dinamic[i][4].distancia(dinamic[i][41])
 
 # print(sys.argv)
+
 a=int(sys.argv[1])
 b=int(sys.argv[2])
 
