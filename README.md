@@ -1,7 +1,5 @@
 # Curso de python
 
-Todo el *código fuente* para enseñar una inicialización a  **python**
-
 1. Tipos  
 2. Colecciones
     - Listas
